@@ -1,4 +1,4 @@
-# Open chat client in React
+# OpenAI chat client in React
 
 This project uses open AI api davinchi model and make chat client with node server and react frontend
 
