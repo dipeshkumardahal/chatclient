@@ -17,3 +17,11 @@ input{
   background-color: blueviolet;
   color: aliceblue;
 }
+.footer{
+  background-color: rgb(166, 109, 218);
+  color: aliceblue;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 20px 0;
+}
